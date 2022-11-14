@@ -34,8 +34,8 @@
                 BorderThickness="1.5"
                 HorizontalAlignment="Center"
                 VerticalAlignment="Center"
-                RenderOptions.EdgeMode="Aliased"
-                Margin="20,20,20">
+                RenderOptions.EdgeMode="Aliased">
+
                 <UniformGrid x:Name="GameGrid"
                          Width="400"
                          Height="400"
@@ -49,9 +49,9 @@
             <Border x:Name="Overlay"
                     Grid.Row="1"
                     Background="{StaticResource OverlayColor}"
-                    Width="{Binding Path=ActualWith, ElementName=Gridboader}"
+                    Width="{Binding Path=ActualWidth, ElementName=Gridboader}"
                     Height="{Binding Path=ActualHeight, ElementName=Gridboader}"
-                    Margin="{Binding Path=ActualMargin, ElementName=Gridboader}"
+                    Margin="{Binding Path=Margin, ElementName=Gridboader}"
                     RenderOptions.EdgeMode="Aliased">
                 <TextBlock x:Name="OverlayText"
                            Text="PRESS ANY KEY TO START"
