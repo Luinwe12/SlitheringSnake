@@ -23,3 +23,12 @@ C:\Users\luinw\Source\Repos\SlitheringSnake\snake game\snake game\obj\Debug\snak
 C:\Users\luinw\Source\Repos\SlitheringSnake\snake game\snake game\obj\Debug\snake game_MarkupCompile.lref
 C:\Users\luinw\Source\Repos\SlitheringSnake\snake game\snake game\obj\Debug\snake game.exe
 C:\Users\luinw\Source\Repos\SlitheringSnake\snake game\snake game\obj\Debug\snake game.pdb
+C:\Users\luinw\Source\Repos\SlitheringSnake\snake game\snake game\bin\Debug\snake game.exe.config
+C:\Users\luinw\Source\Repos\SlitheringSnake\snake game\snake game\bin\Debug\snake game.exe
+C:\Users\luinw\Source\Repos\SlitheringSnake\snake game\snake game\bin\Debug\snake game.pdb
+C:\Users\luinw\Source\Repos\SlitheringSnake\snake game\snake game\obj\Debug\App.baml
+C:\Users\luinw\Source\Repos\SlitheringSnake\snake game\snake game\obj\Debug\MainWindow.baml
+C:\Users\luinw\Source\Repos\SlitheringSnake\snake game\snake game\obj\Debug\snake game.g.resources
+C:\Users\luinw\Source\Repos\SlitheringSnake\snake game\snake game\obj\Debug\snake_game.Properties.Resources.resources
+C:\Users\luinw\Source\Repos\SlitheringSnake\snake game\snake game\obj\Debug\snake game.csproj.GenerateResource.cache
+C:\Users\luinw\Source\Repos\SlitheringSnake\snake game\snake game\obj\Debug\snake game.csproj.CoreCompileInputs.cache
